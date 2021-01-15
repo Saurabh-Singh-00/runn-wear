@@ -8,7 +8,7 @@ A smart watch (Android) app for participating in Marathons virtually
 
 
 ### Features
-- [Connected Flutter App](https://github.com/Saurabh-Singh-00/runn-wear "Wear App")
+- [Connected Flutter App](https://github.com/Saurabh-Singh-00/runn "Flutter App")
 - A standalone wear app that can run independently 
 - Google Sign In
 - Participate in marathons Virtually or Onsite
